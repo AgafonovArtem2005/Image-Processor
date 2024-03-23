@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/image_processor.cpp.o -c /home/agafonov/Documents/image_processor/image_processor.cpp",
+  "file": "/home/agafonov/Documents/image_processor/image_processor.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/color.cpp.o -c /home/agafonov/Documents/image_processor/color.cpp",
+  "file": "/home/agafonov/Documents/image_processor/color.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/image.cpp.o -c /home/agafonov/Documents/image_processor/image.cpp",
+  "file": "/home/agafonov/Documents/image_processor/image.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/bmpformat.cpp.o -c /home/agafonov/Documents/image_processor/bmpformat.cpp",
+  "file": "/home/agafonov/Documents/image_processor/bmpformat.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/bmpreader.cpp.o -c /home/agafonov/Documents/image_processor/bmpreader.cpp",
+  "file": "/home/agafonov/Documents/image_processor/bmpreader.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/bmpwriter.cpp.o -c /home/agafonov/Documents/image_processor/bmpwriter.cpp",
+  "file": "/home/agafonov/Documents/image_processor/bmpwriter.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/filter.cpp.o -c /home/agafonov/Documents/image_processor/filter.cpp",
+  "file": "/home/agafonov/Documents/image_processor/filter.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/filtercrop.cpp.o -c /home/agafonov/Documents/image_processor/filtercrop.cpp",
+  "file": "/home/agafonov/Documents/image_processor/filtercrop.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/consoleoutput.cpp.o -c /home/agafonov/Documents/image_processor/consoleoutput.cpp",
+  "file": "/home/agafonov/Documents/image_processor/consoleoutput.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/parserargv.cpp.o -c /home/agafonov/Documents/image_processor/parserargv.cpp",
+  "file": "/home/agafonov/Documents/image_processor/parserargv.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/pixelfilter.cpp.o -c /home/agafonov/Documents/image_processor/pixelfilter.cpp",
+  "file": "/home/agafonov/Documents/image_processor/pixelfilter.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/filtergrayscale.cpp.o -c /home/agafonov/Documents/image_processor/filtergrayscale.cpp",
+  "file": "/home/agafonov/Documents/image_processor/filtergrayscale.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/filternegative.cpp.o -c /home/agafonov/Documents/image_processor/filternegative.cpp",
+  "file": "/home/agafonov/Documents/image_processor/filternegative.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/matrixfilter.cpp.o -c /home/agafonov/Documents/image_processor/matrixfilter.cpp",
+  "file": "/home/agafonov/Documents/image_processor/matrixfilter.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/filtersharpening.cpp.o -c /home/agafonov/Documents/image_processor/filtersharpening.cpp",
+  "file": "/home/agafonov/Documents/image_processor/filtersharpening.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/filteredgedetection.cpp.o -c /home/agafonov/Documents/image_processor/filteredgedetection.cpp",
+  "file": "/home/agafonov/Documents/image_processor/filteredgedetection.cpp"
+},
+{
+  "directory": "/home/agafonov/Documents/image_processor",
+  "command": "/usr/bin/c++  -I/home/agafonov/Documents/image_processor/util  -Wall -Werror -Wimplicit-fallthrough -g -std=gnu++20 -o CMakeFiles/image_processor.dir/filtergaussianblur.cpp.o -c /home/agafonov/Documents/image_processor/filtergaussianblur.cpp",
+  "file": "/home/agafonov/Documents/image_processor/filtergaussianblur.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/home/agafonov/Documents/image_processor/CMakeFiles/image_processor.dir
+/home/agafonov/Documents/image_processor/CMakeFiles/edit_cache.dir
+/home/agafonov/Documents/image_processor/CMakeFiles/rebuild_cache.dir
